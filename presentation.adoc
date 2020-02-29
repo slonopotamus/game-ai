@@ -1,0 +1,17 @@
+= Мозгииии
+Марат Радченко <https://github.com/slonopotamus[@slonopotamus]>
+v1.0, 1970-01-01
+:source-highlighter: highlightjs
+:revealjs_hash: true
+:revealjs_theme: beige
+:revealjsdir: https://cdn.jsdelivr.net/npm/reveal.js@3.9.2
+:icons: font
+:imagesdir: images
+
+**{revdate}**
+
+// TODO
+
+== The End
+
+link:https://github.com/slonopotamus/game-ai[github.com/slonopotamus/game-ai]

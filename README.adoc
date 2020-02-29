@@ -1,0 +1,17 @@
+= Мозгииии
+
+Sources for tech talk @ Mail.Ru on Game AI
+
+* link:https://slonopotamus.github.io/game-ai/presentation.html[Interactive HTML]
+
+* link:https://slonopotamus.github.io/game-ai/presentation.html?print-pdf[Printable]
+
+== Building
+
+[source,bash]
+----
+bundle install
+bundle exec rake
+----
+
+And then, open `build/presentation.html`
