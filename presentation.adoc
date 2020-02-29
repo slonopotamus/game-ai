@@ -12,6 +12,6 @@ v1.0, 1970-01-01
 
 // TODO
 
-== The End
+== Q&A
 
 link:https://github.com/slonopotamus/game-ai[github.com/slonopotamus/game-ai]
